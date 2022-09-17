@@ -1,1 +1,3 @@
 Commit comprometerse
+git diff
+gg ez
